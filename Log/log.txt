@@ -1,0 +1,54 @@
+A new movie document with name john wick chapter 4 is created by Manojjha
+A new movie document with name john wick chapter 4 is created by Manojjha
+A new movie document with name john wick chapter 4 is created by Manojjha
+Query took 103 milliseconds to fetch the documents
+Query took 57 milliseconds to fetch the documents
+Query took 68 milliseconds to fetch the documents
+Query took 43 milliseconds to fetch the documents
+Query took 16 milliseconds to fetch the documents
+Query took 108 milliseconds to fetch the documents
+Query took 46 milliseconds to fetch the documents
+A new movie document with name john wick chapter 4 is created by Manojjha
+Query took 101 milliseconds to fetch the documents
+Query took 188 milliseconds to fetch the documents
+Query took 224 milliseconds to fetch the documents
+Query took 425 milliseconds to fetch the documents
+Query took 242 milliseconds to fetch the documents
+Query took 72 milliseconds to fetch the documents
+Query took 5 milliseconds to fetch the documents
+Query took 16 milliseconds to fetch the documents
+Query took 56 milliseconds to fetch the documents
+Query took 41 milliseconds to fetch the documents
+Query took 5 milliseconds to fetch the documents
+Query took 19 milliseconds to fetch the documents
+Query took 86 milliseconds to fetch the documents
+Query took 10 milliseconds to fetch the documents
+Query took 9 milliseconds to fetch the documents
+Query took 995 milliseconds to fetch the documents
+Query took 36 milliseconds to fetch the documents
+Query took 265 milliseconds to fetch the documents
+Query took 693 milliseconds to fetch the documents
+Query took 1952 milliseconds to fetch the documents
+Query took 7 milliseconds to fetch the documents
+Query took 10 milliseconds to fetch the documents
+Query took 72 milliseconds to fetch the documents
+Query took 65 milliseconds to fetch the documents
+Query took 46 milliseconds to fetch the documents
+Query took 15 milliseconds to fetch the documents
+Query took 12 milliseconds to fetch the documents
+Query took 16 milliseconds to fetch the documents
+Query took 10 milliseconds to fetch the documents
+Query took 34 milliseconds to fetch the documents
+Query took 15 milliseconds to fetch the documents
+Query took 21 milliseconds to fetch the documents
+Query took 20 milliseconds to fetch the documents
+Query took 21 milliseconds to fetch the documents
+Query took 26 milliseconds to fetch the documents
+Query took 21 milliseconds to fetch the documents
+Query took 21 milliseconds to fetch the documents
+Query took 13 milliseconds to fetch the documents
+Query took 64 milliseconds to fetch the documents
+Query took 242 milliseconds to fetch the documents
+Query took 45 milliseconds to fetch the documents
+Query took 41 milliseconds to fetch the documents
+Query took 14 milliseconds to fetch the documents
